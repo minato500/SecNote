@@ -5,6 +5,7 @@ IDOR occurs when an application provides the direct access to the objects (files
 It may leads the attacker to manipulate the user input to access the files, data or funtionality that the attacker don't have
 
 Usually in all application have profile view by an ID and we can change the id to get the information about other user.
+
 Example:
         https://site_url/user/profile?user_id=102 to https://site_url/user/profile?user_id=103
 But it is not vulnerable because many application use this to show only publically available data
