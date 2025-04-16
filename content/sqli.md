@@ -4,7 +4,7 @@ SQL Injection(SQLi) is a code injection that exploits a vulnerability in an appl
 
 When user inputs is not sanitized properly, the attackers can inject malicious SQL code into input fields such as username, password, etc and gain unauthorised access or manipulate the database.
 
-![SQL Injection](images/sqli.png)
+![SQL Injection](../images/sqli.png)
 
 ## Rise in the SQL Injection
 

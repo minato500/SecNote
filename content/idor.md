@@ -12,7 +12,7 @@ But it is not vulnerable because many application use this to show only publical
 
 If this profile show any data that has sensitive contents like Personally Identifiable Information (PII), bank account so then it show hidden using the authorisation checks
 
-![image1](images/idor.png)
+![image1](../images/idor.png)
 
 ## Real-World Examples
 1. User Account Access:
@@ -44,7 +44,7 @@ These are the most common vulnerabilities in the IDOR
 
 By using the IDOR we can include the server configurations files like /etc/passwd and much more
 
-![image2](images/idor2.png)
+![image2](../images/idor2.png)
 
 ## Example writeups based on the IDOR
 

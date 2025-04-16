@@ -20,7 +20,7 @@ Sometimes even the 2FA can be bypassed if there is logical issue in the code. If
 
 ## Prevention
 
-![Bruteforce](images/bruteforce.png)
+![Bruteforce](../images/bruteforce.png)
 
 1. Account Lockout: Temporarily lock after 3-5 failed attempts usually checks by the IP address so, we should make it proper
 2. Captcha: Block bots using a way of puzzle like problem and it makes the bots out of the application

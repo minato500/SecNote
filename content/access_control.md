@@ -2,7 +2,7 @@
 
 It is also known as Authorization, mean what you are able to do. Authentication is providing our identity, like when we check into our hotel, Authorization or access control is what we are allowed to do. Example once we have checked into our hotel and we have completed our authorization, we get a card key or like a room key, and this key might give us access to our room, the elevator, the restaurant, the pool, the gym, etc.
 
-![Access Control](images/access_control.png)
+![Access Control](../images/access_control.png)
 
 ## Types of Access Control
 
