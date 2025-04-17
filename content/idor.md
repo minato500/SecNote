@@ -48,5 +48,5 @@ By using the IDOR we can include the server configurations files like /etc/passw
 
 ## Example writeups based on the IDOR
 
-1. [lab-insecure-direct-object-references](https://github.com/minato500/portswigger-writeups/tree/main/lab-insecure-direct-object-references)
-2. [lab-user-id-controlled-by-request-parameter](https://github.com/minato500/portswigger-writeups/tree/main/lab-user-id-controlled-by-request-parameter)
+1. [lab-insecure-direct-object-references](https://github.com/minato500/portswigger-writeups/tree/main/labs/lab-insecure-direct-object-references)
+2. [lab-user-id-controlled-by-request-parameter](https://github.com/minato500/portswigger-writeups/tree/main/labs/lab-user-id-controlled-by-request-parameter)
