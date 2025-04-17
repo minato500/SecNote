@@ -19,6 +19,7 @@ When user inputs is not sanitized properly, the attackers can inject malicious S
 The simplest and most common type. The attacker uses the same communication channel to both launch the attack and gather the results.
 
 **Types in Classic SQLi:**
+
 a. Error-based SQLi
 Relies on database error messages to extract data.
 Example: ' OR 1=1 --
@@ -37,6 +38,7 @@ Example: ' UNION SELECT username, password FROM users --
 when the application doesn't display errors or DB responses, but we can observe the behaviour cahnge such as delay, response content, redirection
 
 **Types in Blind SQLi**
+
 a. Boolean-based (content-based) Blind SQLi
 Based on true/false conditions.
 Example:
